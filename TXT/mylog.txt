@@ -2,3 +2,8 @@ ZCZC W00 05 L01 Studying OS with friends!
 ZCZC W00 30 L03 Making github account and pages
 ZCZC W00 35 L01 checking my work at scele
 ZCZC W00 30 L09 doing this week Assignment
+ZCZC W01 100 L02 OS Class Zoom Meeting
+ZCZC W01 10 L06 read WEEK01 Slide
+ZCZC W01 60 L09 doing week01 Assignment
+ZCZC W01 15 L09 update mylog
+ZCZC W01 30 L09 read some of the osc10
