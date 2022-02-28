@@ -13,4 +13,4 @@ ZCZC W02 20 L12 Assignment #02
 ZCZC W02 60 L15 Assignment #05
 ZCZC W02 10 L09 Export my public key to repo
 ZCZC W02 10 L09 update my log
-ZCZC W02 60 L09 review my friends link.
+ZCZC W02 05 L09 review my friends link.
