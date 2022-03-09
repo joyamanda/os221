@@ -14,3 +14,8 @@ ZCZC W02 60 L15 Assignment #05
 ZCZC W02 10 L09 Export my public key to repo
 ZCZC W02 10 L09 update my log
 ZCZC W02 05 L09 review my friends link.
+ZCZC W03 45 L09 Create Virtual Disk
+ZCZC W03 10 L09 review my peer links for this week
+ZCZC W03 15 L09 download script for week3
+ZCZC W03 10 L09 updating mylog.txt
+ZCZC W03 10 L09 Submit my assignment for this week
