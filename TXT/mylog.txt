@@ -1,4 +1,4 @@
-ZCZC W00 05 L01 Studying OS with friends!
+esZCZC W00 05 L01 Studying OS with friends!
 ZCZC W00 30 L03 Making github account and pages
 ZCZC W00 35 L01 checking my work at scele
 ZCZC W00 30 L09 doing this week Assignment
@@ -18,4 +18,9 @@ ZCZC W03 45 L09 Create Virtual Disk
 ZCZC W03 10 L09 review my peer links for this week
 ZCZC W03 15 L09 download script for week3
 ZCZC W03 10 L09 updating mylog.txt
-ZCZC W03 10 L09 Submit my assignment for this week
+ZCZC W04 30 L09 downloading script week04
+ZCZC W04 20 L09 compiling tlpi
+ZCZC W04 15 L09 reveiw my peer links
+ZCZC W04 15 L09 update links.md
+ZCZC W04 05 L09 update mylog.txt
+ZCZC W04 35 L22 trying to do quiz
