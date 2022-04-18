@@ -29,3 +29,9 @@ ZCZC W05 50 L09 modify mymemory2.c
 ZCZC W05 15 L09 run script
 ZCZC W05 10 L09 update mylog.txt
 ZCZC W05 10 L09 reviewing my peer links
+ZCZC W06 60 L09 downloading script week06
+ZCZC W06 25 L09 extract files
+ZCZC W06 60 L01 do some os task in scele
+ZCZC W06 10 L09 update mylog.txt
+
+
