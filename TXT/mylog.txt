@@ -33,5 +33,8 @@ ZCZC W06 60 L09 downloading script week06
 ZCZC W06 25 L09 extract files
 ZCZC W06 60 L01 do some os task in scele
 ZCZC W06 10 L09 update mylog.txt
-
-
+ZCZC W07 10 L09 Fetch amd Extract files
+ZCZC W07 10 L09 fixing assignment weeks before
+ZCZC W07 10 L09 editing myupdate.txt, mylog.txt, etc.
+ZCZC W07 60 L13 finishing assignment
+ZCZC W07 20 L01 answering question in scele 
