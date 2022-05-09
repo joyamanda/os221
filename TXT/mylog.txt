@@ -38,3 +38,6 @@ ZCZC W07 10 L09 fixing assignment weeks before
 ZCZC W07 10 L09 editing myupdate.txt, mylog.txt, etc.
 ZCZC W07 60 L13 finishing assignment
 ZCZC W07 20 L01 answering question in scele 
+ZCZC W08 20 L09 fetch and extract file for this week
+ZCZC W08 140 L09 do linux from scratch ch 1-5
+ZCZC W09 10 L09 update mylog.txt, myrank.txt and myupdate.txt
