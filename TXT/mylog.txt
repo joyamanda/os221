@@ -44,3 +44,7 @@ ZCZC W08 10 L09 update mylog.txt, myrank.txt and myupdate.txt
 ZCZC W09 300 L09 do linux from scratch ch 6
 ZCZC W09 120 L09 do linux from scratch ch 7
 ZCZC W09 10 L09 update mylog.txt, myrank.txt, and myupdate.txt
+ZCZC W10 300 L09 redoing lfs
+ZCZC W10 200 L09 do first half of ch 8 lfs
+ZCZC W10 10 L09 update mylog.txt, myrank.txt and myupdate.txt
+ZCZC W10 60 L09 trying to push and commit
